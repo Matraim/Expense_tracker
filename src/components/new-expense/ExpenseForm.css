@@ -1,0 +1,19 @@
+.new-expense__controls {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	margin-bottom: 1rem;
+	text-align: left;
+}
+
+.new-expense__actions {
+	text-align: right;
+	display: flex;
+	gap: 1rem;
+	justify-content: flex-end;
+}
+
+button:disabled {
+	background-color: rgb(171, 170, 170);
+	cursor: not-allowed;
+}
