@@ -19,14 +19,6 @@ React Expense Tracker is a web application built with React that helps users man
 
 Explore the React Expense Tracker by checking out the [demo]([link_to_demo](https://matraim.github.io/Expense_tracker/)).
 
-## Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-*Screenshot of the expense tracking dashboard.*
-
-![Expense History](screenshots/expense_history.png)
-*Screenshot of the expense history page.*
-
 ## Getting Started
 
 ### Prerequisites
@@ -62,13 +54,6 @@ React Expense Tracker is a web application built with React that helps users man
 
 Explore the React Expense Tracker by checking out the [demo](link_to_demo).
 
-## Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-*Screenshot of the expense tracking dashboard.*
-
-![Expense History](screenshots/expense_history.png)
-*Screenshot of the expense history page.*
 
 ## Getting Started
 
